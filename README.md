@@ -26,6 +26,10 @@ NOTE: The network performed well for examples having non-decimal values. The net
 [2] : Least Absolute Deviation And Huber M Cost  
         https://www.youtube.com/watch?v=QV0j4q2gQg0
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 Ranitha Mataraarachchi, <br/>
 Room No: 2234, <br/>
